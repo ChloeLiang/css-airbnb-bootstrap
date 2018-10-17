@@ -39,15 +39,18 @@ span {
   text-align: center;
 }
 
+.container-sm {
+  max-width: 800px;
+}
+
 .row:first-of-type {
   margin-top: 20px;
 }
 .box {
   width: 100%;
-  margin: 0 15px 20px 15px;
   background-size: cover;
   background-position: center;
-  height: 20vh;
+  height: 250px;
   position: relative;
 }
 #box1 {
